@@ -1,0 +1,26 @@
+
+body {
+	background-color: lightblue;
+}
+
+.imgLeft{
+	float: left;
+	margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+	border: 2px solid black
+}
+
+.imgRight{
+	float: right;
+	margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+	border: 2px solid black
+}
+
+p{
+	margin-left: 20px
+}
